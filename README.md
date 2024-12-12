@@ -1,5 +1,3 @@
-# Portfolio Jekyll Theme
-
 ## Credits
 
 ### Creator
