@@ -4,6 +4,7 @@
 menu:
 - {name: 'Mes projets', url: ''}
 #- {name: 'Blog',     url: 'blog'}
+- {name: 'Archives', url: 'archive'}
 - {name: 'À propos',    url: 'about'}
 #- {name: 'Contact',  url: 'contact'}
 
