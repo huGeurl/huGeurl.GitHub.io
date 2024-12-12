@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Projets
+title: Mes projets
 ---
