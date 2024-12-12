@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "骨芽 Kotsuga"
+title:		   "骨芽 KOTSUGA"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Paul Le"
